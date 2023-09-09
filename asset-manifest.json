@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MakcPokrovskiy/X-ZONT-TEST-react-app/static/css/main.981bcb94.css",
-    "main.js": "/MakcPokrovskiy/X-ZONT-TEST-react-app/static/js/main.e026aef8.js",
-    "static/media/triangle.jpg": "/MakcPokrovskiy/X-ZONT-TEST-react-app/static/media/triangle.bd3a015c8dba2cd99e61.jpg",
-    "index.html": "/MakcPokrovskiy/X-ZONT-TEST-react-app/index.html",
-    "main.981bcb94.css.map": "/MakcPokrovskiy/X-ZONT-TEST-react-app/static/css/main.981bcb94.css.map",
-    "main.e026aef8.js.map": "/MakcPokrovskiy/X-ZONT-TEST-react-app/static/js/main.e026aef8.js.map"
+    "main.css": "/X-ZONT-TEST-react-app/static/css/main.1498936d.css",
+    "main.js": "/X-ZONT-TEST-react-app/static/js/main.e026aef8.js",
+    "static/media/triangle.jpg": "/X-ZONT-TEST-react-app/static/media/triangle.bd3a015c8dba2cd99e61.jpg",
+    "index.html": "/X-ZONT-TEST-react-app/index.html",
+    "main.1498936d.css.map": "/X-ZONT-TEST-react-app/static/css/main.1498936d.css.map",
+    "main.e026aef8.js.map": "/X-ZONT-TEST-react-app/static/js/main.e026aef8.js.map"
   },
   "entrypoints": [
-    "static/css/main.981bcb94.css",
+    "static/css/main.1498936d.css",
     "static/js/main.e026aef8.js"
   ]
 }
